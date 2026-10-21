@@ -1,0 +1,7 @@
+vega_datasets
+scikit-learn
+pandas
+numpy
+matplotlib
+missingno
+kagglehub
